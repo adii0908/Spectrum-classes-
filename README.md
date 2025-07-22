@@ -134,7 +134,8 @@
 
   <section class="section contact">
     <h2>Contact Us</h2>
-    <form action="https://formsubmit.co/htmlcoderbytqb.com@gmail.com" method="POST">>
+    <form>
+      action="https://formsubmit.co/htmlcoderbytqb.com@gmail.com" method="POST">>
       <label for="name">Your Name</label>
       <input type="text" id="name" placeholder="Enter your name" required>
 
